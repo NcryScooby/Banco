@@ -1,0 +1,4 @@
+gradleproject3/Banco.java
+ gradleproject3.Banco
+gradleproject3/Main.java
+ gradleproject3.Main
